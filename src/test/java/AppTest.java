@@ -13,7 +13,6 @@ public class AppTest {
 
     @Autowired
     private ApplicationContext applicationContext;
-
     @Test
     public void mainTest() {
         HelloWorld tree =
